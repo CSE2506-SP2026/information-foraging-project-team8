@@ -24,6 +24,8 @@
     border-style: solid;
     width: 100%;
     margin-bottom: 1.5em;
+    display: flex;
+    flex-direction: column;
 }
 
 .individual-staff-member,
@@ -40,4 +42,8 @@
 .individual-staff-member-data {
     float: left;
     overflow-wrap: normal;
+}
+
+.staff-member-description {
+    margin-top: 20px;
 }
