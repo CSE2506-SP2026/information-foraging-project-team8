@@ -97,3 +97,8 @@ main h4 a {
     background-color: #a51417;
     text-align: center;
 }
+
+#page-content.no-sidebar main {
+    width: 90%;
+    float: none;
+}
