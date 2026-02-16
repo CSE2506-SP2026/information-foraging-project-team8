@@ -35,7 +35,8 @@
 
 .footer-widgets .widget-count-2 {
     float: left;
-    width: 48.5%;
+    width: 100%;
+    text-align: center;
 }
 
 footer a {
