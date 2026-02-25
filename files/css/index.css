@@ -1,4 +1,5 @@
 @import url("common.css");
+@import url("accordian.css");
 @import url("slideshow.css");
 #first-article-first-text {
     font-weight: lighter;
