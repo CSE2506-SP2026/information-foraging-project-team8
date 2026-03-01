@@ -24,3 +24,37 @@ main li {
 .classroom p {
     font-size: 1.15em;
 }
+
+li {
+    font-size: 18px;
+}
+
+ul ul {
+    margin-left: 30px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+h5 {
+    font-size: 16px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 18px;
+}
+
+a {
+    color: #a51417;
+}
+
+a:visited {
+    color: #4d0a0b
+}
